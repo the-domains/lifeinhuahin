@@ -1,0 +1,28 @@
+name: lifeinhuahin
+favicon: null
+layout_spectrum: 0.7076742672361434
+typography_spectrum: 0.4464256677310914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9874158592429012
+  lightness: 0.152137431781739
+  saturation: 0.17784580634906888
+  rhythmicContrast: 0.5184507044032216
+purpose: []
